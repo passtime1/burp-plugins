@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BurpExtender-two:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BurpExtender_two_jar</output-path>
+    <root id="archive" name="BurpExtender-two.jar">
+      <element id="module-output" name="BurpExtender-two" />
+    </root>
+  </artifact>
+</component>
